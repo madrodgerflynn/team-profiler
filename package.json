@@ -1,0 +1,25 @@
+{
+  "name": "team-profiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madrodgerflynn/team-profiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madrodgerflynn/team-profiler/issues"
+  },
+  "homepage": "https://github.com/madrodgerflynn/team-profiler#readme",
+  "dependencies": {
+    "jest": "^29.0.1"
+  }
+}
